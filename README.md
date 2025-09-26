@@ -97,3 +97,4 @@ mimarilerinin etkili bir çözüm sunduğu gösterilmiştir.
 ## 📎 Bağlantılar
 - Kaggle Notebook: https://www.kaggle.com/code/bengusucoban/intel-image-classification 
 - Kaggle Dataset (ağırlık dosyaları): https://www.kaggle.com/datasets/bengusucoban/bengusucobanintel-mnv2-weights
+- GitHub Notebook: [intel_image_classification.ipynb](intel_image_classification.ipynb)
